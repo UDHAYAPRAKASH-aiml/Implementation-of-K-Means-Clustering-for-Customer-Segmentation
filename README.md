@@ -15,7 +15,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 5.Print the predicted array    
 6.Plot the customer segments    
 ## Program:
-``
+```
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: UDHAYA PRAKASH V
